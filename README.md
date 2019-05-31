@@ -1,4 +1,4 @@
-# GitHub pages website source code
+# GitHub Pages website source code
 
 [![Website remlapmot.github.io](https://img.shields.io/website-up-down-green-red/https/remlapmot.github.io.svg)](https://remlapmot.github.io/)
 
