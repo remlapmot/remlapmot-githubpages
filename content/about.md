@@ -7,4 +7,4 @@ I am a Senior Lecturer in Biostatistics applied to Genetics affiliated to the MR
 
 My University of Bristol webpage is [here](https://research-information.bris.ac.uk/en/persons/tom-m-palmer(bd750b43-03d6-4e2e-af74-c24eb2bf5c5a).html).
 
-This website is made using the [blogdown](https://bookdown.org/yihui/blogdown/) package in R and Hugo. To make some tweaks to the default styles I followed some of the advice by Andrew Bates [here]( https://asbates.rbind.io/2018/05/09/customize-blogdown-theme/).
+This website is made using the [blogdown](https://bookdown.org/yihui/blogdown/) package in R which uses [Hugo](https://gohugo.io/). To make some tweaks to the default styles I followed some of the advice by Andrew Bates [here]( https://asbates.rbind.io/2018/05/09/customize-blogdown-theme/).
