@@ -3,7 +3,7 @@ date: "2020-02-13"
 title: About
 ---
 
-I am a Senior Lecturer in Biostatistics applied to Genetics affiliated to the MRC Integrative Epidemiology Unit and Population Health Sciences in Bristol Medical School, University of Bristol in the UK. 
+I am a Senior Lecturer in Biostatistics applied to Genetics affiliated to the MRC Integrative Epidemiology Unit (MRC IEU) in Population Health Sciences in Bristol Medical School, University of Bristol in the UK. 
 
 My University of Bristol webpage is [here](https://research-information.bris.ac.uk/en/persons/tom-m-palmer(bd750b43-03d6-4e2e-af74-c24eb2bf5c5a).html).
 
