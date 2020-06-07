@@ -29,7 +29,7 @@ role: Senior Lecturer in Biostatistics applied to Genetics
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'mailto:tom.palmer@bristol.ac.uk' # '#contact'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -46,4 +46,4 @@ user_groups:
 - Visitors
 ---
 
-Tom Palmer is a senior lecturer in biostatistics applied to genetics.
+Tom Palmer is a Senior Lecturer in Biostatistics applied to Genetics.
