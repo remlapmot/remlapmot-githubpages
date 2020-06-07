@@ -1,20 +1,20 @@
 ---
 abstract: 
 address:
-  city: Stanford
-  country: United States
-  postcode: "94305"
-  region: CA
-  street: 450 Serra Mall
+  city: 
+  country: 
+  postcode: 
+  region: 
+  street: 
 all_day: false
 authors: []
 date: "2030-06-01T13:00:00Z"
 date_end: "2030-06-01T15:00:00Z"
-event: Academic Theme Conference
-event_url: https://example.org
+event: 
+event_url: 
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 
   focal_point: Right
 links:
 #- icon: twitter
@@ -25,11 +25,11 @@ location:
 math: true
 projects:
 - internal-project
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: An example talk using Academic's Markdown slides feature.
+publishDate: 
+slides: 
+summary: 
 tags: []
-title: Example Talk
+title: 
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -40,6 +40,8 @@ url_video: ""
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /alert %}}
 
+<!--
 - **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+ - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+ - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+-->
