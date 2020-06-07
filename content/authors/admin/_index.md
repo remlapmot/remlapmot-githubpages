@@ -4,7 +4,7 @@ authors:
 bio: My research interests include statistical methods for epidemiology.
 education:
   courses:
-  - course: Postgradute certificate in academic practice
+  - course: Postgradute Certificate in Academic Practice
     institution: Lancaster University
     year: 2018
   - course: PhD Extensions to Mendelian randomization
@@ -22,8 +22,11 @@ interests:
 - Epidemiology
 - Medical statistics
 - R and Stata programming
+- mrrobust [Stata package](https://remlapmot.github.io/mrrobust/)
+- bpbounds [R package](https://remlapmot.github.io/bpbounds/)
+- mrbayes [R package](https://okezie94.github.io/mrbayes/)
 organizations:
-- name: MRC Integrative Epidemiology Unit and Population Health Sciences, Bristol Medical School, University of Bristol.
+- name: MRC Integrative Epidemiology Unit and Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK.
   url: "http://www.bristol.ac.uk/integrative-epidemiology/"
 role: Senior Lecturer in Biostatistics applied to Genetics
 social:
@@ -39,6 +42,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/remlapmot
+- icon: university
+  icon_pack: fas
+  link: https://research-information.bris.ac.uk/en/persons/tom-m-palmer(bd750b43-03d6-4e2e-af74-c24eb2bf5c5a).html
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4655-4511
 superuser: true
 title: Tom Palmer
 user_groups:
