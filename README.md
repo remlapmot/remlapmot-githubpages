@@ -14,6 +14,10 @@ To build the site
     ``` r
     blogdown::install_hugo()
     ```
+* Install Academic theme
+    ``` r
+    blogdown::install_theme("gcushen/hugo-academic")
+    ```
 * Build the site
     ``` r
     blogdown::build_site()
