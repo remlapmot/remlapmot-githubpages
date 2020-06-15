@@ -21,7 +21,7 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-location: RSS Young Statisticians Meeting, University of the West of England
+location: RSS Young Statisticians Meeting, University of the West of England, Bristol
 math: true
 projects:
 - internal-project
