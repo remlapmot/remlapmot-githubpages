@@ -18,6 +18,7 @@ To build the site
     ``` r
     blogdown::new_site(theme = "gcushen/hugo-academic")
     ```
+* Edit the content as required
 * Serve the site as you build it
     ``` r
     blogdown::serve_site()
@@ -26,5 +27,6 @@ To build the site
 * Build site
     ``` r
     blogdown::build_site()
+    # or: rmarkdown::render_site(encoding = 'UTF-8')
     ```
-* This will create a directory called public which is my [remlapmot.github.io](https://github.com/remlapmot/remlapmot.github.io) repo on GitHub.
+* This will create a directory called *public* which is my [remlapmot.github.io](https://github.com/remlapmot/remlapmot.github.io) repo on GitHub.
