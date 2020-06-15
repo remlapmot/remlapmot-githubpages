@@ -8,8 +8,8 @@ address:
   street: 
 all_day: false
 authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2011-09-14"
+date_end: "2011-09-14"
 event: 
 event_url: 
 featured: false
@@ -29,9 +29,9 @@ publishDate:
 slides: 
 summary: 
 tags: []
-title: 
+title: Estimation using structural mean models with multiple instruments
 url_code: ""
-url_pdf: ""
+url_pdf: "talk/palmer_lshtm_slides.pdf"
 url_slides: ""
 url_video: ""
 ---
