@@ -31,7 +31,7 @@ summary:
 tags: []
 title: "An adjusted instrumental-variable model for Mendelian randomization"
 url_code: ""
-url_pdf: "talk/poster_adjusted_iv_model_for_mr-a4.pdf"
+url_pdf: "talk/poster_adjusted_iv_model_for_mr.pdf"
 url_slides: ""
 url_video: ""
 ---
