@@ -7,7 +7,7 @@ address:
   region: 
   street: 
 all_day: false
-authors: ["admin", Dave Evans, George Davey Smith]
+authors: ["admin", "Dave Evans", "George Davey Smith"]
 date: "2016-04-14T12:00:00Z"
 date_end: ""
 event: 
