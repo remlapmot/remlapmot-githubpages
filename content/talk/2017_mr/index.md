@@ -31,7 +31,7 @@ summary:
 tags: []
 title: "mrrobust: A Stata package implementing MR-Egger regression type analyses"
 url_code: ""
-url_pdf: "talk/palmer_mr2017_poster-a4.pdf"
+url_pdf: "talk/palmer_mr2017_poster.pdf"
 url_slides: ""
 url_video: ""
 ---
