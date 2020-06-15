@@ -7,7 +7,7 @@ address:
   region: 
   street: 
 all_day: false
-authors: ["admin"]
+authors: ["admin", Wes Spiller, Neil Davies]
 date: "2017-07-12T13:00:00"
 date_end: ""
 event: 
