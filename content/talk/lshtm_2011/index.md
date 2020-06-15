@@ -7,9 +7,9 @@ address:
   region: 
   street: 
 all_day: false
-authors: []
-date: "2011-09-14"
-date_end: "2011-09-14"
+authors: ["admin", Paul Clarke, Frank Windmeijer]
+date: "2011-09-14T13:00:00"
+date_end: ""
 event: 
 event_url: 
 featured: false
@@ -36,9 +36,11 @@ url_slides: ""
 url_video: ""
 ---
 
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
+<!-- 
+  {{% alert note %}}
+ Click on the **Slides** button above to view the built-in slides feature.
+ {{% /alert %}}
+ -->
 
 <!--
 - **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
