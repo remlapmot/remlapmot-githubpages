@@ -25,6 +25,7 @@ interests:
 - mrrobust [Stata package](https://remlapmot.github.io/mrrobust/)
 - bpbounds [R package](https://remlapmot.github.io/bpbounds/)
 - mrbayes [R package](https://okezie94.github.io/mrbayes/)
+- PhD thesis [pdf](/thesis/2008palmertmphd.pdf)
 organizations:
 - name: MRC Integrative Epidemiology Unit and Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK.
   url: "http://www.bristol.ac.uk/integrative-epidemiology/"
