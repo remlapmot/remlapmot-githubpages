@@ -31,7 +31,7 @@ summary:
 tags: []
 title: "Strengthening Mendelian randomization through utilizing multiple independent paired combinations of genetic variants to evaluate potential pleiotropy"
 url_code: ""
-url_pdf: ""
+url_pdf: "talk/palmer_iscb2013_poster.pdf"
 url_slides: ""
 url_video: ""
 ---
