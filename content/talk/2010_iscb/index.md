@@ -31,7 +31,7 @@ summary:
 tags: []
 title: "Instrumental variable estimation of the causal risk ratio in cohorts"
 url_code: ""
-url_pdf: ""
+url_pdf: "talk/palmer_iscb2010_slides_30aug2010.pdf"
 url_slides: ""
 url_video: ""
 ---
