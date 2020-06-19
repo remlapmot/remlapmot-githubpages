@@ -31,7 +31,7 @@ summary:
 tags: []
 title: "Using multiple independent combinations of genetic variants to strengthen causal inference in Mendelian randomization studies: height and lung function as an example"
 url_code: ""
-url_pdf: ""
+url_pdf: "talk/palmer_rss2010_poster.pdf"
 url_slides: ""
 url_video: ""
 ---
